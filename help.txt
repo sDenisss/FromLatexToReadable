@@ -1,0 +1,51 @@
+# HELP: How to use the LaTeX to Readable Text Converter
+
+This program helps you convert LaTeX math text into simple human-readable text.
+
+## HOW TO USE:
+
+1. Run the program (for example, by opening it in a terminal).
+
+2. You will see a menu like this:
+
+   1. Edit text in file (input.txt → output.txt)  
+   2. Help
+
+3. Choose option 1.  
+   It will open a file called `input.txt`.  
+
+4. Write or paste your LaTeX math text in `input.txt`.  
+   For example:  
+   \frac{1}{x^2} → will be converted to (¹)/(ₓ²)
+
+5. Save the file `input.txt`.
+
+6. Go back to the terminal.  
+   You will now see two new options:
+
+   1. Continue conversion  
+   2. Back to menu
+
+7. Choose option 1 to start conversion.  
+   The program will create and open a new file `output.txt` with the result.
+
+---
+
+## EXTRA
+
+- If you need help again, choose option 2 from the main menu.
+
+- This program works with many LaTeX symbols like:  
+  \sum, \frac, ^, _, \alpha, \beta, etc.
+
+- The result is easier to read (example: small numbers, subscripts, math symbols).
+
+---
+
+## CONTACT
+
+This program is open source.  
+Visit the GitHub page to learn more or contribute:
+https://github.com/sDenisss
+
+MIT License.

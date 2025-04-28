@@ -1,0 +1,29 @@
+c:\University\Programming\C# Test\FromAIGenTextToReadable\bin\Debug\net9.0\FromAIGenTextToReadable.exe
+C:\University\Programming\C# Test\FromAIGenTextToReadable\bin\Debug\net9.0\FromAIGenTextToReadable.deps.json
+C:\University\Programming\C# Test\FromAIGenTextToReadable\bin\Debug\net9.0\FromAIGenTextToReadable.runtimeconfig.json
+c:\University\Programming\C# Test\FromAIGenTextToReadable\bin\Debug\net9.0\FromAIGenTextToReadable.dll
+c:\University\Programming\C# Test\FromAIGenTextToReadable\bin\Debug\net9.0\FromAIGenTextToReadable.pdb
+c:\University\Programming\C# Test\FromAIGenTextToReadable\obj\Debug\net9.0\FromAIGenTextToReadable.GeneratedMSBuildEditorConfig.editorconfig
+c:\University\Programming\C# Test\FromAIGenTextToReadable\obj\Debug\net9.0\FromAIGenTextToReadable.AssemblyInfoInputs.cache
+c:\University\Programming\C# Test\FromAIGenTextToReadable\obj\Debug\net9.0\FromAIGenTextToReadable.AssemblyInfo.cs
+c:\University\Programming\C# Test\FromAIGenTextToReadable\obj\Debug\net9.0\FromAIGenTextToReadable.csproj.CoreCompileInputs.cache
+c:\University\Programming\C# Test\FromAIGenTextToReadable\obj\Debug\net9.0\FromAIGenTextToReadable.dll
+c:\University\Programming\C# Test\FromAIGenTextToReadable\obj\Debug\net9.0\refint\FromAIGenTextToReadable.dll
+c:\University\Programming\C# Test\FromAIGenTextToReadable\obj\Debug\net9.0\FromAIGenTextToReadable.pdb
+C:\University\Programming\C# Test\FromAIGenTextToReadable\obj\Debug\net9.0\FromAIGenTextToReadable.genruntimeconfig.cache
+C:\University\Programming\C# Test\FromAIGenTextToReadable\obj\Debug\net9.0\ref\FromAIGenTextToReadable.dll
+c:\University\Programming\Projects\FromAIGenTextToReadable\bin\Debug\net9.0\FromAIGenTextToReadable.exe
+C:\University\Programming\Projects\FromAIGenTextToReadable\bin\Debug\net9.0\FromAIGenTextToReadable.deps.json
+C:\University\Programming\Projects\FromAIGenTextToReadable\bin\Debug\net9.0\FromAIGenTextToReadable.runtimeconfig.json
+c:\University\Programming\Projects\FromAIGenTextToReadable\bin\Debug\net9.0\FromAIGenTextToReadable.dll
+c:\University\Programming\Projects\FromAIGenTextToReadable\bin\Debug\net9.0\FromAIGenTextToReadable.pdb
+c:\University\Programming\Projects\FromAIGenTextToReadable\obj\Debug\net9.0\FromAIGenTextToReadable.GeneratedMSBuildEditorConfig.editorconfig
+c:\University\Programming\Projects\FromAIGenTextToReadable\obj\Debug\net9.0\FromAIGenTextToReadable.AssemblyInfoInputs.cache
+c:\University\Programming\Projects\FromAIGenTextToReadable\obj\Debug\net9.0\FromAIGenTextToReadable.AssemblyInfo.cs
+c:\University\Programming\Projects\FromAIGenTextToReadable\obj\Debug\net9.0\FromAIGenTextToReadable.csproj.CoreCompileInputs.cache
+c:\University\Programming\Projects\FromAIGenTextToReadable\obj\Debug\net9.0\FromAIGenTextToReadable.dll
+c:\University\Programming\Projects\FromAIGenTextToReadable\obj\Debug\net9.0\refint\FromAIGenTextToReadable.dll
+c:\University\Programming\Projects\FromAIGenTextToReadable\obj\Debug\net9.0\FromAIGenTextToReadable.pdb
+C:\University\Programming\Projects\FromAIGenTextToReadable\obj\Debug\net9.0\FromAIGenTextToReadable.genruntimeconfig.cache
+C:\University\Programming\Projects\FromAIGenTextToReadable\obj\Debug\net9.0\ref\FromAIGenTextToReadable.dll
+c:\University\Programming\Projects\FromAIGenTextToReadable\obj\Debug\net9.0\FromAIGenTextToReadable.sourcelink.json
